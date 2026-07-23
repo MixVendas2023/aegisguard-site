@@ -1,56 +1,50 @@
-# AegisGuard-site
-AegisGuard - Intelligent Security for Web3 and Crypto
-🛡️ AegisGuard
+# 🛡️ AegisGuard
+## Intelligent Security Layer for Web3 and Crypto
 
-Intelligent Security Layer for Web3 Trading
+Proteção inteligente para usuários, carteiras digitais e interações blockchain.
 
-Proteção inteligente para usuários, carteiras e negociações no ecossistema blockchain.
+A AegisGuard é uma plataforma de segurança Web3 criada para ajudar usuários a reduzir riscos no ecossistema cripto, oferecendo análise inteligente de ameaças, avaliação de contratos inteligentes, detecção de riscos e maior transparência antes de interações blockchain.
 
-A AegisGuard é uma startup de segurança Web3 criada para reduzir riscos no universo cripto, oferecendo uma camada inteligente de proteção contra ameaças digitais, contratos maliciosos, golpes e vulnerabilidades durante interações blockchain.
-
-Nossa missão é tornar a experiência Web3 mais segura, simples e confiável para todos.
+Nossa missão é tornar a Web3 mais segura, simples e confiável.
 
 ---
 
-🚀 Visão
+# 🚀 Visão
 
-Criar uma infraestrutura de segurança acessível que funcione como uma ponte de proteção entre usuários e o mundo descentralizado.
+Criar uma camada inteligente de segurança entre usuários e o mundo descentralizado.
 
-A AegisGuard busca transformar a segurança blockchain em uma ferramenta simples para qualquer pessoa negociar, explorar e utilizar aplicações Web3 com mais confiança.
+A AegisGuard busca transformar a segurança blockchain em uma ferramenta acessível, permitindo que qualquer pessoa explore aplicações Web3 com mais conhecimento e confiança.
 
 ---
 
-🔐 Principais Recursos
+# 🔐 Principais Recursos
 
-🧠 Smart Security Analysis
+## 🧠 Smart Security Analysis
+Análise de riscos antes de interações com contratos inteligentes e aplicações descentralizadas.
 
-Análise inteligente de riscos antes de interações com contratos e aplicações descentralizadas.
+## 🛡️ Wallet Security Insights
+Avaliação de permissões, conexões e possíveis riscos relacionados a carteiras digitais.
 
-🛡️ Wallet Protection
+## 🔎 Token & Contract Risk Detection
+Identificação de sinais de risco em tokens, contratos inteligentes e transações blockchain.
 
-Monitoramento de ameaças relacionadas a carteiras digitais e permissões perigosas.
+## 🌐 Web3 Threat Detection
 
-🔎 Token & Contract Risk Detection
-
-Identificação de possíveis riscos em tokens, contratos inteligentes e transações suspeitas.
-
-🌐 Web3 Threat Protection
-
-Proteção contra:
+Análise de possíveis ameaças:
 
 - Phishing
 - Links maliciosos
-- DApps fraudulentas
-- Contratos inseguros
-- Ataques de engenharia social
+- DApps suspeitas
+- Contratos vulneráveis
+- Golpes de engenharia social
 
 ---
 
-⛓️ Redes e Ecossistema
+# ⛓️ Redes e Ecossistema
 
-Inicialmente focada no ecossistema Base, a AegisGuard foi projetada para evoluir para múltiplas redes compatíveis com EVM.
+Desenvolvida inicialmente com foco no ecossistema Base e compatível com redes EVM.
 
-Planejamento de expansão:
+Planejamento:
 
 - Base
 - Ethereum
@@ -60,61 +54,49 @@ Planejamento de expansão:
 
 ---
 
-🎯 Nosso Primeiro Produto
+# 🎯 Primeiro Produto
 
-AegisGuard Security Scanner
+## AegisGuard Security Scanner
 
-Uma ferramenta criada para ajudar usuários a avaliar riscos antes de:
+Ferramenta para auxiliar usuários antes de:
 
-✅ Conectar uma carteira
-✅ Aprovar contratos
-✅ Comprar tokens
-✅ Interagir com protocolos DeFi
-✅ Realizar negociações Web3
-
----
-
-🌎 Por que a AegisGuard?
-
-O crescimento da Web3 trouxe novas oportunidades, mas também novos riscos.
-
-Milhões de usuários interagem diariamente com contratos inteligentes sem uma camada adequada de proteção.
-
-A AegisGuard nasce para oferecer:
-
-Mais segurança.
-Mais transparência.
-Mais confiança no futuro descentralizado.
+✅ Conectar uma carteira  
+✅ Aprovar contratos  
+✅ Comprar tokens  
+✅ Interagir com DeFi  
+✅ Realizar negociações Web3  
 
 ---
 
-🗺️ Roadmap
+# 🗺️ Roadmap
 
-Phase 1 — Foundation
+## Phase 1 — Foundation
 
-✅ Marca AegisGuard
-✅ Plataforma inicial
-✅ Presença Web3
-✅ Estrutura do projeto
+✅ Marca AegisGuard  
+✅ Identidade Web3  
+✅ Estrutura inicial do projeto  
+✅ Landing page
 
-Phase 2 — Security Tools
+## Phase 2 — Security Tools
 
-🔄 Scanner de contratos
-🔄 Análise de riscos
-🔄 Proteção para usuários Base
+🔄 Scanner de contratos  
+🔄 Sistema de análise de riscos  
+🔄 Integração com blockchain
 
-Phase 3 — Web3 Security Platform
+## Phase 3 — Web3 Security Platform
 
-🔄 Integrações blockchain
-🔄 APIs de segurança
-🔄 Ferramentas para usuários e projetos
+🔄 APIs de segurança  
+🔄 Integrações multi-chain  
+🔄 Ferramentas avançadas para usuários e projetos
 
 ---
 
-🤝 Conecte-se
+# 🌎 Nossa Missão
 
-Estamos construindo uma nova camada de segurança para o futuro da blockchain.
+A Web3 trouxe liberdade financeira e inovação, mas também novos desafios de segurança.
 
-AegisGuard — Protecting the Future of Web3.
+A AegisGuard nasce para criar uma camada de confiança entre pessoas e tecnologia descentralizada.
+
+**AegisGuard — Protecting the Future of Web3**
 
 Security • Blockchain • Intelligence • Trust
